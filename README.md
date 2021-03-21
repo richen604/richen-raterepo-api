@@ -4,6 +4,12 @@
 
 This is a GraphQL API for the Rate Repository application.
 
+## Disclaimer
+
+This application was forked from the [Full Stack Open 2020](https://fullstackopen.com/en/part10) github repository [here](https://github.com/fullstack-hy2020/rate-repository-api)
+
+This is the backend api for the React Native application created for the coursework [here @ richen-raterepo-app](https://github.com/richen604/richen-raterepo-app)
+
 ## ✔️ Requirements
 
 Node (versions `12.X.X` are tested, but later versions _might_ work as well) and npm. If you haven't installed Node or npm, [nvm](https://github.com/nvm-sh/nvm) is an easy to use tool for installing both. Nvm is also handy if you want to quickly switch between different Node versions.
